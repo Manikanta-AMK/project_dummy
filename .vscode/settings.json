@@ -1,0 +1,29 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.home": "C:\\Program Files\\Java\\jdk-24",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-24",
+            "path": "C:\\Program Files\\Java\\jdk-24",
+            "default": true
+        }
+    ],
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "java.configuration.maven.userSettings": "",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.configuration.enableAccessAnalyzer": false,
+    "maven.view": "hierarchical",
+ 
+    "cucumberautocomplete.steps": [
+        "src/test/java/**/*.java"
+    ],
+    "cucumberautocomplete.syncfeatures": "src/test/resources/features/**/*.feature",
+    "cucumberautocomplete.strictGherkinCompletion": true
+ 
+    /* Optional settings:
+    "editor.formatOnSave": true,
+    "java.format.settings.url": ".vscode/eclipse-java-formatter.xml",
+    "java.format.settings.profile": "Custom"
+    */
+}

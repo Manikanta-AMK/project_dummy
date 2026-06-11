@@ -1,0 +1,12 @@
+15:26:46.163474900 - Edge browser opened
+15:26:46.178252600 - browser maximised
+15:26:46.776416300 - URL is Launched
+15:26:46.798963 - Application launched successfully
+15:28:13.068552500 - Edge browser opened
+15:28:13.084901400 - browser maximised
+15:28:13.621692700 - URL is Launched
+15:28:13.642250700 - Application launched successfully
+16:04:33.695924100 - Edge browser opened
+16:04:33.711806600 - browser maximised
+16:04:34.209540600 - URL is Launched
+16:04:34.249805900 - Application launched successfully

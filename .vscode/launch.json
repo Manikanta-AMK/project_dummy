@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch with Arguments Prompt",
+      "request": "launch",
+      "mainClass": "",
+      "args": "${command:SpecifyProgramArgs}"
+    },
+    {
+      "name": "Launch Edge",
+      "request": "launch",
+      "type": "msedge",
+      "url": "http://localhost:8080",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Attach to Edge",
+      "port": 9222,
+      "request": "attach",
+      "type": "msedge",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "type": "java",
+      "name": "Run Cucumber Tests",
+      "request": "launch",
+      "mainClass": "io.cucumber.core.cli.Main",
+      "args": "--glue stepdefs src/test/resources/features",
+      "projectName": "cucumber-selenium-edgedriver"
+    },
+    {
+      "type": "java",
+      "name": "Run Maven Tests",
+      "request": "launch",
+      "mainClass": "com.GBHSR.testRunner.testRunner",
+      "projectName": "cucumber-selenium-edgedriver",
+      "cwd": "${workspaceFolder}",
+      "args": "",
+      "vmArgs": "",
+      "console": "internalConsole"
+    }
+  ]
+}

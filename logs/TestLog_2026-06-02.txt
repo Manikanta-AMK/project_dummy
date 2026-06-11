@@ -1,0 +1,20 @@
+12:41:55.968329500 - Edge browser opened
+12:41:55.982854600 - browser maximised
+12:41:56.099381300 - URL is Launched
+12:41:56.389968900 - Application launched successfully
+12:41:56.519489800 - Appian Logo is Displayed
+12:41:56.783077500 - Credentials entered
+12:41:56.804077100 - Remember Me checkbox already been selected by default
+12:41:56.885600700 - Remember Me checkbox un selected successfully
+12:41:56.978609400 - Clicked on Signin button
+12:42:07.049900500 - Logged in to the application and regestration page is launched
+12:44:47.673400400 - Edge browser opened
+12:44:47.699412 - browser maximised
+12:44:48.049523400 - URL is Launched
+12:44:48.097531300 - Application launched successfully
+12:44:48.318133900 - Appian Logo is Displayed
+12:44:48.654717800 - Credentials entered
+12:44:48.677716900 - Remember Me checkbox already been selected by default
+12:44:48.769243900 - Remember Me checkbox un selected successfully
+12:44:48.893777700 - Clicked on Signin button
+12:45:01.485229400 - Logged in to the application and regestration page is launched
